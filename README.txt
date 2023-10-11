@@ -25,3 +25,7 @@ comment the code
 Modify the home page 
 add logo of the RK Spoon Company
 and write the welcome Message 
+
+2023-10-11 1042
+update _Layout.cshtml file
+rename MvcSpoon to RKSpoon
