@@ -19,4 +19,4 @@ comment the code
  Create img folder in wwwroot folder to save images which is used in project
 
  2023-10-11 1007
- Reference for logo - https://www.google.com/search?q=rk%20spoon%20image&tbm=isch&tbs=il:ol&rlz=1C1VDKB_enCA1021CA1022&hl=en&sa=X&ved=0CAAQ1vwEahcKEwjIucWUle6BAxUAAAAAHQAAAAAQAw&biw=1519&bih=818#imgrc=qkLSGcjQi4s6AM
+ Reference for logo - https://www.google.com/search?q=rk+spoon+image&tbm=isch&hl=en&chips=q:rk+spoon+image,online_chips:logo:i4vQyBnSQqo%3D&rlz=1C1VDKB_enCA1021CA1022&sa=X&ved=2ahUKEwjviZHXl-6BAxWaA2IAHSAKB8YQ4lYoAXoECAEQMg&biw=1519&bih=835#imgrc=Sz1mvPOvEOXPyM&imgdii=OQ07hnRwE9JkKM
