@@ -14,3 +14,6 @@ Propertoes -> launchSetting.json
 comment the code 
 //"sslPort": 44378
  so that project is run in localhost
+
+ 2023-10-11 1004
+ Create img folder in wwwroot folder to save images which is used in project
