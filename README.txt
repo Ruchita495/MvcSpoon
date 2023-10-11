@@ -41,3 +41,9 @@ run successfully
 
 2023-10-11 1111
 add a comment in HomeController.cs file
+
+2023-10-11 1142
+add discription in Aboutus page
+also add css properties
+test the app
+run successfully 
