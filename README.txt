@@ -8,3 +8,9 @@ Create MvcSpoon project in Visual Studio 2019
 
 2023-10-11 0950
 Create GitHub repository
+
+2023-10-11 1000
+Propertoes -> launchSetting.json
+comment the code 
+//"sslPort": 44378
+ so that project is run in localhost
