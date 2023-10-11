@@ -22,7 +22,11 @@ namespace MvcSpoon.Controllers
         {
             return View();
         }
-
+      
+        public IActionResult Aboutus()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
