@@ -29,3 +29,6 @@ and write the welcome Message
 2023-10-11 1042
 update _Layout.cshtml file
 rename MvcSpoon to RKSpoon
+
+2023-10-11 1054
+add Aboutus page in Views -> Home -> Aboutus.cshtml
