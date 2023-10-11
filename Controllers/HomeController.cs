@@ -22,7 +22,7 @@ namespace MvcSpoon.Controllers
         {
             return View();
         }
-      
+        //add new method for Aboutus page
         public IActionResult Aboutus()
         {
             return View();
