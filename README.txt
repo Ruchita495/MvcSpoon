@@ -32,3 +32,9 @@ rename MvcSpoon to RKSpoon
 
 2023-10-11 1054
 add Aboutus page in Views -> Home -> Aboutus.cshtml
+
+2023-10-11 1100
+add new navlink for Abouus page in Shared -> _Layout.cshtml page
+add new method for Abotus page in HomeController 
+test the app
+run successfully 
