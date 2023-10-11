@@ -38,3 +38,6 @@ add new navlink for Abouus page in Shared -> _Layout.cshtml page
 add new method for Abotus page in HomeController 
 test the app
 run successfully 
+
+2023-10-11 1111
+add a comment in HomeController.cs file
