@@ -47,3 +47,10 @@ add discription in Aboutus page
 also add css properties
 test the app
 run successfully 
+
+2023-10-12 0158
+clean the solution and build it 
+run successfully
+
+2023-10-12 0202
+add controller name MvcSpoon.cs
