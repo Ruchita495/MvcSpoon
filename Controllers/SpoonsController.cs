@@ -20,9 +20,17 @@ namespace MvcSpoon.Controllers
         }
 
         // GET: Spoons
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Spoons.ToListAsync());
+            // add search fecility so user can search with Type field
+            var spoons = from s in _context.Spoons
+                         select s;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                spoons = spoons.Where(se => se.Type.Contains(searchString));
+            }
+            return View(await spoons.ToListAsync());
         }
 
         // GET: Spoons/Details/5
