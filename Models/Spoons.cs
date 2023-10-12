@@ -32,6 +32,8 @@ namespace MvcSpoon.Models
         [StringLength(15, MinimumLength = 5)]
         [Required]
         public string Use { get; set; }
+
+        [Required]
         public int Rating { get; set; }
     }
 }
