@@ -190,3 +190,5 @@ clear the consol
 rebuilt the application
 run successfully
 
+2023-10-12 0530
+add validation critarea in Models > Spoons.cs file
