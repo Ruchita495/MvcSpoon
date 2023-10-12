@@ -10,11 +10,11 @@
     <a asp-action="Create">Create New</a>
 </p>
 
-@* Add text box and filter button for search facility *@
+@* Add text box and filter button for search facility and also change asp-controller name *@
 
-<form asp-controller="Movies" asp-action="Index">
+<form asp-controller="Spoons" asp-action="Index">
     <p>
-        Title: <input type="text" name="SearchString" />
+        Type: <input type="text" name="SearchString" />
         <input type="submit" value="Filter" />
     </p>
 </form>
