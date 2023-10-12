@@ -175,3 +175,6 @@ create SeedData.cs file
 
 2023-10-12 0445
 add data into SeedData file
+
+2023-10-12 0455
+add a code in Program.cs file to handel error
