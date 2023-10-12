@@ -183,3 +183,10 @@ add a code in Program.cs file to handel error
 clear the consol
 rebuilt the application
 run successfully
+
+2023-10-12 0520
+Add text box and filter button for search fecility in Views > Spoons > Index.cshtml file
+clear the consol
+rebuilt the application
+run successfully
+
