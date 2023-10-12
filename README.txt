@@ -154,3 +154,7 @@ System.Xml.XmlSerializer.4.3.0
 
 2023-10-12 0324
 create Data folder and also create MvcSpoonContext.cs file
+
+2023-10-12 0329
+add connection string in appsetting.json file 
+add data context in startup.cs file
