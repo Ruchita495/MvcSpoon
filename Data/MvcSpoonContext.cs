@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MvcSpoon.Models;
 
 namespace MvcSpoon.Data
 {
@@ -13,6 +14,6 @@ namespace MvcSpoon.Data
         {
         }
 
-        public DbSet<Spoon> Spoon{ get; set; }
+        public DbSet<Spoons> Spoons { get; set; }
     }
 }
