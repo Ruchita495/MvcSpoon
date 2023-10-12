@@ -162,3 +162,10 @@ add data context in startup.cs file
 2023-10-12 03:45
 got an error when add new scaffolded item
 solution :- write a spoon instaed of Spoons
+
+2023-10-12 0348
+add a migration initils using
+Add-Migration InitialCreate command
+
+update database using
+Update-Database command

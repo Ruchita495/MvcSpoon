@@ -9,6 +9,7 @@ namespace MvcSpoon.Data
 {
     public class MvcSpoonContext : DbContext
     {
+        // add dbcontext
         public MvcSpoonContext(DbContextOptions<MvcSpoonContext> options)
             : base(options)
         {
