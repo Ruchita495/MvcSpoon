@@ -57,3 +57,5 @@ add controller name MvcSpoon.cs
 
 2023-10-12 0208
 add new class in Modal folder called MvcSpoons.cs
+
+Microsoft.EntityFrameworkCore.SqlServer
