@@ -192,3 +192,13 @@ run successfully
 
 2023-10-12 0530
 add validation critarea in Models > Spoons.cs file
+
+2023-10-12 0600
+take some rest
+make a diner and do some household work
+
+2023-10-12 0730
+clear the consol
+rebuilt the application
+run successfully
+
