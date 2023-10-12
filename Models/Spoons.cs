@@ -14,6 +14,6 @@ namespace MvcSpoon.Models
         public decimal Price { get; set; }
         public string Material { get; set; }
         public string Use { get; set; }
-        public float Rating { get; set; }
+        public int Rating { get; set; }
     }
 }
