@@ -178,3 +178,8 @@ add data into SeedData file
 
 2023-10-12 0455
 add a code in Program.cs file to handel error
+
+2023-10-12 0500
+clear the consol
+rebuilt the application
+run successfully
