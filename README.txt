@@ -169,3 +169,9 @@ Add-Migration InitialCreate command
 
 update database using
 Update-Database command
+
+2023-10-12 0420
+create SeedData.cs file
+
+2023-10-12 0445
+add data into SeedData file
