@@ -202,3 +202,9 @@ clear the consol
 rebuilt the application
 run successfully
 
+
+2023-10-12 0830
+add css for Home page And Aboutus page
+clear the consol
+rebuilt the application
+run successfully
